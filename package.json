@@ -1,0 +1,25 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "description": "This is test description",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/170200107068/git-test2.git"
+  },
+  "author": "Jaydip Mer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/170200107068/git-test2/issues"
+  },
+  "homepage": "https://github.com/170200107068/git-test2#readme",
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.27"
+  }
+}
